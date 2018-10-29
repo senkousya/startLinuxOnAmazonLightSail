@@ -1,0 +1,3 @@
+---
+title: 🔰Linux環境をAmazon LightSailを利用して用意してみる
+...
